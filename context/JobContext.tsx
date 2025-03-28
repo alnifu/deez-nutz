@@ -5,7 +5,6 @@ import uuid from 'react-native-uuid';
 
 let urlBitch = 'https://empllo.com/api/v1';
 
-
 export interface Job {
     id: string;
     title: string;
